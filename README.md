@@ -8,7 +8,7 @@ Repositório com laboratórios práticos, anotações e certificados relacionado
 
 | Pasta | Descrição |
 |---|---|
-| 📂 [`laboratorio/`](./laboratorio) | Laboratórios práticos no Cisco Packet Tracer configuração de LAN, FTP, Telnet/SSH, endereçamento IP e mais |
+| 📂 [`laboratorio/`](./laboratorio) | Laboratórios práticos no Cisco Packet Tracer, cobrindo configuração de LAN, transferência de arquivos e outros tópicos de redes |
 | 📝 [`anotações/`](./anotações) | Anotações e resumos de estudo sobre redes e utilitários de teste |
 | 🏆 [`certificados/`](./certificados) | Certificados de cursos e trilhas concluídas na área |
 
