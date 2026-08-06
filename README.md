@@ -14,7 +14,7 @@ Repositório com laboratórios práticos, anotações e certificados relacionado
 
 ### 🎯 Sobre o repositório
 
-Espaço de documentação da minha evolução prática no estudo de redes desde conceitos fundamentais de endereçamento e conectividade até tópicos mais próximos de segurança, como uso seguro de protocolos remotos (SSH vs. Telnet) e transferência de arquivos.
+Espaço de documentação da minha evolução prática no estudo de redes, cobrindo desde fundamentos de endereçamento e conectividade até tópicos mais próximos de segurança, como transferência de arquivos.
 
 Cada laboratório inclui contexto do que foi feito, o resultado obtido e o principal aprendizado da atividade.
 
