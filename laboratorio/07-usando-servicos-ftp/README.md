@@ -11,4 +11,4 @@ Prática de upload, download, renomeação e exclusão de arquivo em um servidor
 
 **Resultado:** 1/1 na avaliação da atividade
 
-**Aprendizado:** entendi na prática o fluxo de comandos do cliente FTP (`put`, `get`, `rename`, `dir`, `delete`) e reforcei que o FTP transmite login e dados sem criptografia — o que o torna inadequado pra ambientes que exigem segurança, sendo SFTP ou FTPS as alternativas seguras pra esse mesmo tipo de transferência.
+**Aprendizado:** entendi na prática o fluxo de comandos do cliente FTP (`put`, `get`, `rename`, `dir`, `delete`) e reforcei que o FTP transmite login e dados sem criptografia o que o torna inadequado pra ambientes que exigem segurança, sendo SFTP ou FTPS as alternativas seguras pra esse mesmo tipo de transferência.
